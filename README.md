@@ -89,7 +89,7 @@ The data is preprocessed to remove missing values, scale features, and standardi
 
 ---
 
-## 🧪 Results
+## Results
 
 | Algorithm | Number of Clusters | Silhouette Score |
 |------------|-------------------|------------------|
@@ -99,9 +99,3 @@ The ** ... algorithm** provided the best interpretability and cluster separation
 ---
 
 ## Future Work
-
-
-
----
-
-⭐ *Exploring the hidden structure of music through data science and unsupervised learning.*
