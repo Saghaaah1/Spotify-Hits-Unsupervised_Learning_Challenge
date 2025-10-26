@@ -5,7 +5,7 @@ The goal of this project is to uncover **hidden structures** in music data — s
 
 ---
 
-## Project Overview
+## Overview:
 
 This challenge aims to apply **unsupervised learning** (clustering and dimensionality reduction) to understand what makes a song a "hit" on Spotify.
 
